@@ -1,0 +1,23 @@
+1. Create test user and add test to sudo,lp,audio,video
+2. Create test1 user with 2000 uid
+3. create test2 user with 1000 gid
+4. Set password for test,test1,test2
+5. login with test user and create bio.txt 
+6. Change permission to read and write for user and read for group only.
+7. Logout form test user
+8. try to write your name inside bio.txt
+9. Create user user1 using adduser command.
+
+___________________________________________________________________________
+
+1.Delete test,test1,test2
+2.Create three users, raj,ravi,neha using adduser command.
+3.Create data1.txt,data2.txt.Write your name in data1.txt
+4.Add neha and ravi to default main group.
+5.Login with raj and try to write content in data2.txt.
+6.Read the data1.txt
+7.Logout from raj and login with ravi.
+8.Try to write content in data2.txt and data1.txt.
+9.Read the data1.txt and data2.txt
+10.Logout from ravi
+
